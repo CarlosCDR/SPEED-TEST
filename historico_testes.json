@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "11/03/2026 22:20",
+    "download": 70.86,
+    "upload": 71.82,
+    "ping": 15.44
+  },
+  {
+    "timestamp": "11/03/2026 22:27",
+    "download": 89.83182676433525,
+    "upload": 70.16007967500573,
+    "ping": 21.244
+  },
+  {
+    "timestamp": "11/03/2026 22:29",
+    "download": 77.44057325347916,
+    "upload": 40.7276079526434,
+    "ping": 20.331,
+    "servidor": "Eclipse Telecom, Uberl\u00e2ndia, Brazil"
+  },
+  {
+    "timestamp": "11/03/2026 22:33",
+    "download": 61.34614396480667,
+    "upload": 60.381561169463666,
+    "ping": 78.325,
+    "servidor": "WN Telecom, Estrela do Sul, Brazil"
+  }
+]
